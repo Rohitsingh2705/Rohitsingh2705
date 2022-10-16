@@ -33,6 +33,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 <img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|
 |--|--|
 
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitSingh2705&show_icons=true&theme=radical)
+
  **Connect with Me**
 ---
 [<img align="left" alt="Rohit Singh" width="30px" src="/Assets/logo.jpg" />](https://rohitsingh2705.github.io/finallydone.github.io/) [<img align="left" alt="Twitter - Rohit Singh" width="30px" src="/Assets/twitter.png" />](https://twitter.com/Rohit_Singh_27) [<img align="left" alt="Instagram - Rohit Singh" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/_rohitsingh2705/) [<img align="left" alt="LinkedIn - Rohit Singh" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rohitsingh2705/) [<img align="left" alt="Email -Rohit Singh" width="30px" src="/Assets/gmail.png" />](mailto:rohitsingh200527@gmail.com)
