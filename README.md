@@ -42,7 +42,7 @@
  
  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-
+---
  **Connect with Me**
 ---
 [<img align="left" alt="Rohit Singh" width="30px" src="/Assets/logo.jpg" />](https://rohitsingh2705.github.io/finallydone.github.io/) [<img align="left" alt="Twitter - Rohit Singh" width="30px" src="/Assets/twitter.png" />](https://twitter.com/Rohit_Singh_27) [<img align="left" alt="Instagram - Rohit Singh" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/_rohitsingh2705/) [<img align="left" alt="LinkedIn - Rohit Singh" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rohitsingh2705/) [<img align="left" alt="Email -Rohit Singh" width="30px" src="/Assets/gmail.png" />](mailto:rohitsingh200527@gmail.com)
