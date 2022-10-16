@@ -4,8 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
-I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+an+enthusiastic+Techie+and+a+Developer;Loves+to+learn+and+gain+new+skills.)](https://git.io/typing-svg)
 
 ---
 
@@ -37,7 +36,17 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitSingh2705&show_icons=true&theme=radical)
 
+---
+**Enjoy with MEMES**
+ 
+ 
+ <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+
  **Connect with Me**
 ---
 [<img align="left" alt="Rohit Singh" width="30px" src="/Assets/logo.jpg" />](https://rohitsingh2705.github.io/finallydone.github.io/) [<img align="left" alt="Twitter - Rohit Singh" width="30px" src="/Assets/twitter.png" />](https://twitter.com/Rohit_Singh_27) [<img align="left" alt="Instagram - Rohit Singh" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/_rohitsingh2705/) [<img align="left" alt="LinkedIn - Rohit Singh" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rohitsingh2705/) [<img align="left" alt="Email -Rohit Singh" width="30px" src="/Assets/gmail.png" />](mailto:rohitsingh200527@gmail.com)
 
+
+
+ 
