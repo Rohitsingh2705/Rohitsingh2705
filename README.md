@@ -33,6 +33,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 <img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|
 |--|--|
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsingh2705&show_icons=true&locale=en&layout=compact" alt="rohitsingh2705" /></p>
+
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitSingh2705&show_icons=true&theme=radical)
 
  **Connect with Me**
